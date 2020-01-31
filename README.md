@@ -1,2 +1,2 @@
 # manulife-aio
- John Hancock/ManuLife ACS-AIO project
+ John Hancock/ManuLife ACS-build artefacts
